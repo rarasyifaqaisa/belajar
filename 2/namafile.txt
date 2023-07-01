@@ -1,0 +1,1 @@
+Teks yang akan ditulis ke file.
